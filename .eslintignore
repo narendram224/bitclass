@@ -1,0 +1,5 @@
+*.css
+*.svg
+craco.config.js
+tailwind.config.js
+reportWebVitals.ts
