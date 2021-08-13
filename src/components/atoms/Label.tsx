@@ -6,7 +6,7 @@ type labelProps = {
 const Label: React.FC<labelProps> = ({ text }:labelProps)
 : JSX.Element => (
   <div>
-    <p>{text}</p>
+    <p className="font-normal">{text}</p>
   </div>
 );
 
